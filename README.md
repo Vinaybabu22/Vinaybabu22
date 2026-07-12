@@ -11,7 +11,7 @@
 <a href="https://leetcode.com/u/MAMIDI_VINAY_BABU/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
----
+<br/>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontColor=00F7FF&fontSize=28"/></p>
 
@@ -22,7 +22,7 @@
 * 🐍 **Core Tech:** Python, Flask, SQL, Java, C
 * 🌱 **Currently Mastering:** Data Structures & Algorithms (DSA), System Design, and Full Stack Development
 
----
+<br/>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Tech%20Stack&fontColor=00F7FF&fontSize=28"/></p>
 
@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,flask,react,tailwind,mysql,sqlite,git,github,vscode,linux&theme=dark"/>
 </p>
 
----
+<br/>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Featured%20Projects&fontColor=00F7FF&fontSize=28"/></p>
 
@@ -47,7 +47,7 @@
 * Modern career ecosystem platform built with **React**, **Vite**, and **Tailwind CSS**.
 * Designed features for direct tracking of Jobs, Internships, and structured Courses over a slick Glassmorphism UI.
 
----
+<br/>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=GitHub%20Stats&fontColor=00F7FF&fontSize=28"/></p>
 
@@ -68,12 +68,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaybabu22&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-<h4 align="center">🐍 Contribution Snake</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vinaybabu22/Vinaybabu22/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="80%" />
-</p>
-
----
+<br/>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Current%20Goals&fontColor=00F7FF&fontSize=28"/></p>
 
@@ -82,7 +77,7 @@
 - 🛠️ **Deep Dive:** Strengthening backend systems architecture.
 - 🤝 **Community:** Contributing actively to Open Source initiatives.
 
----
+<br/>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Contact&fontColor=00F7FF&fontSize=28"/></p>
 
@@ -96,7 +91,7 @@
   <a href="https://leetcode.com/u/MAMIDI_VINAY_BABU/" target="_blank"><b>LeetCode</b></a>
 </p>
 
----
+<br/>
 
 <p align="center">⭐ If you like my work, consider following my GitHub profile!</p>
 
