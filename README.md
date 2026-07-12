@@ -1,39 +1,44 @@
-# Hi, I'm Vinay Babu! 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=435&lines=MCA+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</a>
-
-### 🚀 About Me
-I am a software development enthusiast and Master of Computer Applications (MCA) student passionate about building impactful applications. 
-
-- 💻 I love working with Python, JavaScript, and Java.
-- 📊 Currently exploring Machine Learning and Data Science.
-- 🛠️ Building intelligent web applications and compilers.
+<div align="center">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Vinay
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=MCA+Student+%40+Avanthi+Institute;Software+Developer+%7C+Machine+Learning+Enthusiast;Python+%7C+Java+%7C+C+%7C+SQL;Building+Intelligent+Applications;Always+Learning+Something+New" />
+<br>
+<img src="https://img.shields.io/badge/MCA%20Student-Avanthi%20Institute-0092D1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Python%20%7C%20Flask-red?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Random%20Forest-326CE5?style=for-the-badge&logo=scikitlearn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/> </a>
+<p align="center">
+Passionate software developer focusing on building intelligent web applications, predictive machine learning models, and secure software environments.
+<br>
+Currently completing my <b>Master of Computer Applications (MCA)</b>, working with technologies like Flask, Mistral AI, and Machine Learning algorithms while continuously refining backend logic and data pipelines.
 </p>
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+</div>
 
-* **AI-Assisted Online Compiler**
-    * Built a web-based online compiler featuring AI assistance using **Flask**, **Mistral AI**, and the **Judge0 API**.
-* **Gold Price Prediction**
-    * Developed a machine learning model utilizing the **Random Forest** algorithm to predict gold prices.
-* **Avinya**
-    * Personal creative development project built using dynamic scripting.
+---
+
+##  About Me
+```yaml
+Name        : Mamidi Vinay Babu
+Role        : Software Developer & MCA Student
+Education   : 
+  College   : Avanthi Institute of Engineering and Technology
+  Degree    : Master of Computer Applications (MCA)
+Languages   : Python • Java • C • SQL • JavaScript • HTML • CSS
+Backend     : Flask • REST APIs • Monolithic Architecture • Judge0 API
+Tools       : VS Code • Jupyter Notebook • Spyder • Git
+Interests   :
+  - Backend Engineering
+  - Machine Learning & Data Science
+  - Artificial Intelligence
+  - Open Source Systems
 
 ---
 
